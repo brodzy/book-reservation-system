@@ -2,7 +2,7 @@
 
 Book reservation system that rents and returns books to its registered customers via menu in console.
 
-Welcome to Brandon's Book Reservation System!
+Welcome to Brandon's Book Reservation System! <br>
 -------------------------------------------- <br>
 (1) Add Customer <br>
 (2) Delete Customer <br>
