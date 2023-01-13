@@ -2,6 +2,7 @@
 
 Book reservation system that rents and returns books to its registered customers via menu in console.
 
+## Menu Example:
 Welcome to Brandon's Book Reservation System! <br>
 -------------------------------------------- <br>
 (1) Add Customer <br>
